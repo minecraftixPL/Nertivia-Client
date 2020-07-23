@@ -1,0 +1,65 @@
+{
+    "explore": "Gofr",
+    "explore-desc": "Gofr",
+    "servers": "Gofr",
+    "join-server": "Gofr",
+    "themes": "Gofr",
+    "emoji-packs": "Gofr",
+    "message-styles": "Gofr",
+    "created-by": "Gofr",
+    "filter": "Gofr",
+    "sort-by": "Gofr",
+
+    "all": "Gofr",
+    "verified": "Gofr",
+    "most-users": "Gofr",
+    "least-users": "Gofr",
+    "alphabetical": "Gofr",
+    "date-added": "Gofr",
+
+    "explore-support-message": "Gofr",
+    "support-message-settings": "Gofr",
+    "donate": "Gofr",
+
+    "join": "Gofr",
+    "join-card-message": "Gofr",
+    "coming-soon!": "Gofr",
+
+    "joined": "Gofr",
+    "apply": "Gofr",
+    "unapply": "Gofr",
+    "copy-link": "Gofr",
+
+    "clone": "Gofr",
+    "cloning": "Gofr",
+    "cloned": "Gofr",
+    "theme-safe-message": "Gofr",
+
+    "friends": "Gofr",
+    "pending": "Gofr",
+    "recents": "Gofr",
+
+    "online": "Gofr",
+    "away": "Gofr",
+    "busy": "Gofr",
+    "looking-to-play": "Gofr",
+    "offline": "Gofr",
+
+    "add-friends-message": "Gofr",
+    "offline-message": "Gofr",
+    "saved-notes": "Gofr",
+    "select-person-message": "Gofr",
+    "message": "Gofr",
+
+    "add-server": "Gofr",
+    "add-friend": "Gofr",
+    "add-friend-message": "Gofr",
+    "adding": "Gofr",
+    "create": "Gofr",
+
+    "new-messages": "Gofr",
+
+    "today-at": "Gofr {0}",
+    "yesterday-at": "Gofr {0}",
+    "send-a-message": "Gofr"
+}
